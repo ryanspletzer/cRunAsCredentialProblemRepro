@@ -1,4 +1,4 @@
-# cRunsAsCredentialProblemRepro
+# cRunAsCredentialProblemRepro
 
 This is the simplest possible class-based DSC resource to reproduce an issue found when using PsDscRunAsCredential.
 
